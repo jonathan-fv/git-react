@@ -1,0 +1,194 @@
+[
+  {
+    "city": "Paris",
+    "latitude": 48.8534,
+    "longitude": 2.3488,
+    "current_temperature": 14.5,
+    "current_weather": "Clear sky",
+    "current_wind_speed": 6.7,
+    "current_humidity": 50,
+    "forecast_days": [
+      {
+        "date": "2023-03-25",
+        "average_temperature": 15.2,
+        "average_wind_speed": 8.3,
+        "average_humidity": 55,
+        "average_weather": "Clear sky"
+      },
+      {
+        "date": "2023-03-26",
+        "average_temperature": 13.7,
+        "average_wind_speed": 7.1,
+        "average_humidity": 65,
+        "average_weather": "Cloudy"
+      },
+      {
+        "date": "2023-03-27",
+        "average_temperature": 12.4,
+        "average_wind_speed": 6.5,
+        "average_humidity": 70,
+        "average_weather": "Rainy"
+      }
+    ]
+  },
+  {
+    "city": "Marseille",
+    "latitude": 43.2965,
+    "longitude": 5.3698,
+    "current_temperature": 16.2,
+    "current_weather": "Partly cloudy",
+    "current_wind_speed": 8.9,
+    "current_humidity": 55,
+    "forecast_days": [
+      {
+        "date": "2023-03-25",
+        "average_temperature": 17.5,
+        "average_wind_speed": 10.2,
+        "average_humidity": 60,
+        "average_weather": "Sunny"
+      },
+      {
+        "date": "2023-03-26",
+        "average_temperature": 16.1,
+        "average_wind_speed": 9.1,
+        "average_humidity": 65,
+        "average_weather": "Cloudy"
+      },
+      {
+        "date": "2023-03-27",
+        "average_temperature": 14.8,
+        "average_wind_speed": 8.5,
+        "average_humidity": 70,
+        "average_weather": "Rainy"
+      }
+    ]
+  },
+  {
+    "city": "Caen",
+    "latitude": 49.1828,
+    "longitude": -0.3708,
+    "current_temperature": 12.8,
+    "current_weather": "Light rain",
+    "current_wind_speed": 9.3,
+    "current_humidity": 75,
+    "forecast_days": [
+      {
+        "date": "2023-03-25",
+        "average_temperature": 11.5,
+        "average_wind_speed": 7.8,
+        "average_humidity": 80,
+        "average_weather": "Rainy"
+      },
+      {
+        "date": "2023-03-26",
+        "average_temperature": 10.2,
+        "average_wind_speed": 6.5,
+        "average_humidity": 85,
+        "average_weather": "Heavy rain"
+      },
+      {
+        "date": "2023-03-27",
+        "average_temperature": 9.4,
+        "average_wind_speed": 5.8,
+        "average_humidity": 90,
+        "average_weather": "Thunderstorm"
+      }
+    ]
+  },
+  {
+    "city": "Brest",
+    "latitude": 48.3904,
+    "longitude": -4.4861,
+    "current_temperature": 9.6,
+    "current_weather": "Overcast",
+    "current_wind_speed": 11.1,
+    "current_humidity": 90,
+    "forecast_days": [
+      {
+        "date": "2023-03-25",
+        "average_temperature": 10.2,
+        "average_wind_speed": 12.3,
+        "average_humidity": 85,
+        "average_weather": "Rainy"
+      },
+      {
+        "date": "2023-03-26",
+        "average_temperature": 8.7,
+        "average_wind_speed": 10.5,
+        "average_humidity": 90,
+        "average_weather": "Thunderstorm"
+      },
+      {
+        "date": "2023-03-27",
+        "average_temperature": 7.9,
+        "average_wind_speed": 9.8,
+        "average_humidity": 95,
+        "average_weather": "Heavy rain"
+      }
+    ]
+  },
+  {
+    "city": "Angoulême",
+    "latitude": 45.6474,
+    "longitude": 0.1606,
+    "current_temperature": 15.4,
+    "current_weather": "Sunny",
+    "current_wind_speed": 5.3,
+    "current_humidity": 50,
+    "forecast_days": [
+      {
+        "date": "2023-03-25",
+        "average_temperature": 16.2,
+        "average_wind_speed": 6.1,
+        "average_humidity": 55,
+        "average_weather": "Partly cloudy"
+      },
+      {
+        "date": "2023-03-26",
+        "average_temperature": 17.5,
+        "average_wind_speed": 7.2,
+        "average_humidity": 60,
+        "average_weather": "Sunny"
+      },
+      {
+        "date": "2023-03-27",
+        "average_temperature": 18.3,
+        "average_wind_speed": 8.5,
+        "average_humidity": 65,
+        "average_weather": "Partly cloudy"
+      }
+    ]
+  },
+  {
+    "city": "Niort",
+    "latitude": 46.3231,
+    "longitude": -0.4589,
+    "current_temperature": 13.2,
+    "current_weather": "Light rain",
+    "current_wind_speed": 7.9,
+    "current_humidity": 70,
+    "forecast_days": [
+      {
+        "date": "2023-03-25",
+        "average_temperature": 14.5,
+        "average_wind_speed": 8.7,
+        "average_humidity": 75,
+        "average_weather": "Rainy"
+      },
+      {
+        "date": "2023-03-26",
+        "average_temperature": 13.4,
+        "average_wind_speed": 7.4,
+        "average_humidity": 80,
+        "average_weather": "Heavy rain"
+      },
+      {
+        "date": "2023-03-27",
+        "average_temperature": 12.6,
+        "average_wind_speed": 6.7,
+        "average_humidity": 85,
+        "average_weather": "Thunderstorm"
+      }
+    ]
+  }
+]
