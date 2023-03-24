@@ -5,7 +5,7 @@ import Card from '../forcast/Card';
 import './forecastContainer.css'
 
 const forecastContainer = (props) => {
-
+    console.log(props);
     const city = props.cityId ;
     const foreCasts = ForeCasts;
     const cityForeCast = (cityChoosen) => foreCasts.filter((city) => {

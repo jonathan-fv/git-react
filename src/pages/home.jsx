@@ -1,4 +1,4 @@
-import React, {useState} from 'react'
+import React, {useState, useEffect} from 'react'
 import Exemple from '../components/exemple'
 import ForeCast from '../components/forecastContainer/forecastContainer'
 import SelectComponent from "../components/SelectComponent";
@@ -9,7 +9,7 @@ const Home = () => {
 		<div>
 			<Exemple />
 			<SelectComponent setId={setId}/>
-			<ForeCast cityId={id}/>
+			{id && (<ForeCast cityId={id}/>)}
 		</div>
 	)
 }
