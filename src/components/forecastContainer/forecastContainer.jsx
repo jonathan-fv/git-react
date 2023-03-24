@@ -1,15 +1,15 @@
 /* eslint-disable no-unused-expressions */
 import React from 'react'
-import ForeCasts from '../../data.json'
+import ForeCasts from '../../resources/json/data.json'
 import Card from '../forcast/Card';
 import './forecastContainer.css'
 
 const forecastContainer = (props) => {
 
-    const city = "marseille" ;
+    const city = props.cityId ;
     const foreCasts = ForeCasts;
-    const cityForeCast = (cityChoosen) => foreCasts.filter((cityName) => {
-        return cityName.city.toLowerCase() === cityChoosen.toLowerCase();
+    const cityForeCast = (cityChoosen) => foreCasts.filter((city) => {
+        return city.id === cityChoosen;
     });
     const getDay = (currentdate) => {
         const date = new Date(currentdate);

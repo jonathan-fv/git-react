@@ -8,8 +8,8 @@ const Home = () => {
 	return (
 		<div>
 			<Exemple />
-			<ForeCast />
 			<SelectComponent setId={setId}/>
+			<ForeCast cityId={id}/>
 		</div>
 	)
 }
