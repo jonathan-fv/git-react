@@ -30,7 +30,7 @@ const forecastContainer = (props) => {
                     })}
                     </div>
                 </div>
-            ) : null} 
+            ) : null}
             <div>
                 
             </div>
