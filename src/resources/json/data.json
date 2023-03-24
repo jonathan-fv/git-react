@@ -8,6 +8,40 @@
     "current_weather": "Clear",
     "current_wind_speed": 6.7,
     "current_humidity": 50,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
@@ -41,6 +75,40 @@
     "current_weather": "Cloudy",
     "current_wind_speed": 8.9,
     "current_humidity": 55,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
@@ -74,6 +142,40 @@
     "current_weather": "Rain",
     "current_wind_speed": 9.3,
     "current_humidity": 75,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
@@ -107,6 +209,40 @@
     "current_weather": "Overcast",
     "current_wind_speed": 11.1,
     "current_humidity": 90,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
@@ -140,6 +276,40 @@
     "current_weather": "Sun",
     "current_wind_speed": 5.3,
     "current_humidity": 50,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
@@ -173,6 +343,40 @@
     "current_weather": "Rain",
     "current_wind_speed": 7.9,
     "current_humidity": 70,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
