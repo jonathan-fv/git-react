@@ -7,16 +7,16 @@ const Card = ({ day, currentWeather, id }) => {
 
   useEffect(() => {
     switch (currentWeather) {
-      case 'Sunny':
+      case 'Sun':
         setWeather('https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/clear-day.svg');
         break;
-      case 'Clear Sky':
+      case 'Clear':
         setWeather('https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/clear-day.svg');
         break;
       case 'Cloudy':
         setWeather('https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/partly-cloudy-day.svg');
         break;
-      case 'Rainy':
+      case 'Rain':
         setWeather('https://bmcdn.nl/assets/weather-icons/v3.0/fill/svg/rain.svg');
         break;
       case 'Thunderstorm':
