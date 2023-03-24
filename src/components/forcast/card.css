@@ -1,0 +1,26 @@
+.card-container {
+  border-radius: 8px;
+  width: 250px;
+  padding: 30px;
+  cursor: pointer;
+
+  box-shadow: 6px 6px 5px 0px rgba(168, 168, 168, 1);
+  -webkit-box-shadow: 6px 6px 5px 0px rgba(168, 168, 168, 1);
+  -moz-box-shadow: 6px 6px 5px 0px rgba(168, 168, 168, 1);
+  background-color: rgb(243, 243, 243);
+}
+
+img {
+  width: 200px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.card-day {
+  font-weight: bold;
+  color: black;
+  text-transform: uppercase;
+  letter-spacing: 6px;
+}
