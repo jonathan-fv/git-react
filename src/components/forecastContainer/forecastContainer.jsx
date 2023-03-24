@@ -31,9 +31,6 @@ const forecastContainer = (props) => {
                     </div>
                 </div>
             ) : null}
-            <div>
-                
-            </div>
 		</div>
 	)
 }
