@@ -3,9 +3,10 @@ import data from '../resources/json/data.json';
 
 const SelectComponent = ({setId}) => {
     const onSelect = (event) => {
-        setId (event.target.value)
+        setId (parseInt(event.target.value))
         console.log(event.target.value)
     }
+
     const optionItems = data.map((option) =>
         <option key={option.id} value={option.id}>{option.city}</option>
     );
