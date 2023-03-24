@@ -1,3 +1,12 @@
+# Staff
+- component ScearchBar -> Mael/Luko
+- component Container -> Prisca/Paul
+- component Card -> Théo/ Hugo
+- component detail -> Etienne/Killian
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
