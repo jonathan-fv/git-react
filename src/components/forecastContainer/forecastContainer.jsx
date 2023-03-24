@@ -25,7 +25,7 @@ const forecastContainer = (props) => {
                     <div className='cards'>
                     {foreCast.forecast_days.map((foreCastDetails, j) => {
                         return <div key={j} className="card">
-                            <Card day={getDay(foreCastDetails.date)} currentWeather={foreCastDetails.average_weather} id={foreCastDetails.date} />
+                            <Card day={getDay(foreCastDetails.date)} currentWeather={foreCastDetails.average_weather} id={foreCast.id} />
                         </div>
                     })}
                     </div>
