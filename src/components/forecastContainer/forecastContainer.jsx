@@ -1,8 +1,8 @@
 /* eslint-disable no-unused-expressions */
-import React from 'react'
+import React from 'react';
 import ForeCasts from '../../resources/json/data.json'
 import Card from '../forcast/Card';
-import './forecastContainer.css'
+import './forecastContainer.css';
 
 const forecastContainer = (props) => {
     console.log(props);
