@@ -1,6 +1,7 @@
 [
   {
     "city": "Paris",
+    "id": 1,
     "latitude": 48.8534,
     "longitude": 2.3488,
     "current_temperature": 14.5,
@@ -33,6 +34,7 @@
   },
   {
     "city": "Marseille",
+    "id": 2,
     "latitude": 43.2965,
     "longitude": 5.3698,
     "current_temperature": 16.2,
@@ -65,6 +67,7 @@
   },
   {
     "city": "Caen",
+    "id": 3,
     "latitude": 49.1828,
     "longitude": -0.3708,
     "current_temperature": 12.8,
@@ -97,6 +100,7 @@
   },
   {
     "city": "Brest",
+    "id": 4,
     "latitude": 48.3904,
     "longitude": -4.4861,
     "current_temperature": 9.6,
@@ -129,6 +133,7 @@
   },
   {
     "city": "Angoulême",
+    "id": 5,
     "latitude": 45.6474,
     "longitude": 0.1606,
     "current_temperature": 15.4,
@@ -161,6 +166,7 @@
   },
   {
     "city": "Niort",
+    "id": 6,
     "latitude": 46.3231,
     "longitude": -0.4589,
     "current_temperature": 13.2,
