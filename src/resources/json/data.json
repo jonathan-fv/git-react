@@ -1,12 +1,47 @@
 [
   {
     "city": "Paris",
+    "id": 1,
     "latitude": 48.8534,
     "longitude": 2.3488,
     "current_temperature": 14.5,
     "current_weather": "Clear",
     "current_wind_speed": 6.7,
     "current_humidity": 50,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
@@ -33,12 +68,47 @@
   },
   {
     "city": "Marseille",
+    "id": 2,
     "latitude": 43.2965,
     "longitude": 5.3698,
     "current_temperature": 16.2,
     "current_weather": "Cloudy",
     "current_wind_speed": 8.9,
     "current_humidity": 55,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
@@ -65,12 +135,47 @@
   },
   {
     "city": "Caen",
+    "id": 3,
     "latitude": 49.1828,
     "longitude": -0.3708,
     "current_temperature": 12.8,
     "current_weather": "Rain",
     "current_wind_speed": 9.3,
     "current_humidity": 75,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
@@ -97,12 +202,47 @@
   },
   {
     "city": "Brest",
+    "id": 4,
     "latitude": 48.3904,
     "longitude": -4.4861,
     "current_temperature": 9.6,
     "current_weather": "Overcast",
     "current_wind_speed": 11.1,
     "current_humidity": 90,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
@@ -129,12 +269,47 @@
   },
   {
     "city": "Angoulême",
+    "id": 5,
     "latitude": 45.6474,
     "longitude": 0.1606,
     "current_temperature": 15.4,
     "current_weather": "Sun",
     "current_wind_speed": 5.3,
     "current_humidity": 50,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
@@ -161,12 +336,47 @@
   },
   {
     "city": "Niort",
+    "id": 6,
     "latitude": 46.3231,
     "longitude": -0.4589,
     "current_temperature": 13.2,
     "current_weather": "Rain",
     "current_wind_speed": 7.9,
     "current_humidity": 70,
+    "temperatures": [
+      {
+        "time": "00:00",
+        "temperature": 7.9
+      },
+      {
+        "time": "03:00",
+        "temperature": 6.1
+      },
+      {
+        "time": "06:00",
+        "temperature": 4.4
+      },
+      {
+        "time": "09:00",
+        "temperature": 8.7
+      },
+      {
+        "time": "12:00",
+        "temperature": 11.4
+      },
+      {
+        "time": "15:00",
+        "temperature": 10.3
+      },
+      {
+        "time": "18:00",
+        "temperature": 8.8
+      },
+      {
+        "time": "21:00",
+        "temperature": 7.3
+      }
+    ],
     "forecast_days": [
       {
         "date": "2023-03-25",
